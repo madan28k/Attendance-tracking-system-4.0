@@ -132,5 +132,4 @@ Before you begin, ensure you have the following prerequisites installed:
    The attendance records will be updated in real-time, ensuring accurate tracking.
 
 ## Developers
-Created by
-Contributors : [Madan], [Akash], [Michael]
+Created by: [Madan], [Akash], [Michael]
